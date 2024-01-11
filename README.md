@@ -1,5 +1,15 @@
 # medalgame_simulation
-## 本アプリの目的
+### 本アプリの目的
 **メダルゲームのシミュレーション**を、streamlit上で気軽に行えるようにする。
 
-## リポジトリ説明
+### リポジトリ構造
+
+\```
+
+.
+├───lib
+│   └───simulation_funcs
+└───pages
+    └───__pycache__
+    
+\```
